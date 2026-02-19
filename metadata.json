@@ -1,0 +1,12 @@
+
+{
+  "name": "EduConnect Live",
+  "short_name": "EduConnect",
+  "description": "Professional real-time educational assistance platform for live doubt solving with video and whiteboards.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "theme_color": "#2563eb",
+  "background_color": "#f8fafc"
+}
